@@ -48,7 +48,7 @@ jit = [
     "numba>=0.55.0",
 ]
 ci = [
-    "pyupgrade>=3.10",
+    "pyupgrade>=3.21.0",
     "ruff>=0.4.5",
     "mypy>=1.10.0",
     "types-setuptools>=57.0.0",
