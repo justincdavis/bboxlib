@@ -56,7 +56,7 @@ ci = [
 ]
 test = [
     "pytest>=6.2.0",
-    "hypothesis[numpy]>=6.98.0",
+    "hypothesis[numpy]>=6.141.1",
     "pybboxes>=0.1.6",
 ]
 docs = [
