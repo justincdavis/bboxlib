@@ -55,7 +55,7 @@ ci = [
     "types-tqdm>=4.66.0",
 ]
 test = [
-    "pytest>=6.2.0",
+    "pytest>=8.4.2",
     "hypothesis[numpy]>=6.98.0",
     "pybboxes>=0.1.6",
 ]
